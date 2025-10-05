@@ -1,5 +1,11 @@
 # EasyFSE
 
+
+
+https://github.com/user-attachments/assets/ee16422c-648c-484a-a455-d50d0684354d
+
+
+
 ## This tool let's users enable Full Screen Experience on PC's & Laptop's.
 <img width="600" height="418" alt="image" src="https://github.com/user-attachments/assets/c049c72f-4223-415d-9cd8-aa4091567d7a" />
 
